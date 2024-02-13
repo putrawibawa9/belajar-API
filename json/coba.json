@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Putra",
+    "umur": 22,
+    "alamat": "sukawati",
+    "nim": 220030223,
+    "hobby": ["gym", "code", "hehe"],
+
+    "pembimbng": {
+      "pembbiing1": "dadang",
+      "pembbiing2": "suherman"
+    }
+  },
+
+  {
+    "nama": "Linda",
+    "umur": 23,
+    "alamat": "sukawati",
+    "nim": 2200433320223,
+    "hobby": ["anj", "mem", "kond"],
+
+    "pembimbng": {
+      "pembbiing1": "bandem",
+      "pembbiing2": "rudi"
+    }
+  }
+]
