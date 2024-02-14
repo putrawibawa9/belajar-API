@@ -5,23 +5,20 @@
     "alamat": "sukawati",
     "nim": 220030223,
     "hobby": ["gym", "code", "hehe"],
-
-    "pembimbng": {
-      "pembbiing1": "dadang",
-      "pembbiing2": "suherman"
+    "pembimbing": {
+      "pembimbing1": "dadang",
+      "pembimbing2": "suherman"
     }
   },
-
   {
     "nama": "Linda",
     "umur": 23,
     "alamat": "sukawati",
     "nim": 2200433320223,
     "hobby": ["anj", "mem", "kond"],
-
-    "pembimbng": {
-      "pembbiing1": "bandem",
-      "pembbiing2": "rudi"
+    "pembimbing": {
+      "pembimbing1": "bandem",
+      "pembimbing2": "rudi"
     }
   }
 ]

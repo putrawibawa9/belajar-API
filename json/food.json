@@ -1,0 +1,57 @@
+{
+    "foodCategories": [
+      {
+        "category": "Fruits",
+        "foods": [
+          "Apple",
+          "Banana",
+          "Orange",
+          "Grapes",
+          "Strawberry"
+        ]
+      },
+      {
+        "category": "Vegetables",
+        "foods": [
+          "Carrot",
+          "Broccoli",
+          "Spinach",
+          "Tomato",
+          "Cucumber"
+        ]
+      },
+      {
+        "category": "Proteins",
+        "foods": [
+          "Chicken",
+          "Salmon",
+          "Tofu",
+          "Eggs",
+          "Lentils"
+        ]
+      },
+      {
+        "category": "Grains",
+        "foods": [
+          "Rice",
+          "Quinoa",
+          "Oats",
+          "Whole Wheat Bread",
+          "Barley"
+        ]
+      },
+      {
+        "category": "Dairy",
+        "foods": [
+          "Milk",
+          "Cheese",
+          "Yogurt",
+          "Butter",
+          "Cottage Cheese"
+        ]
+      }
+    ]
+  }
+  
+
+
